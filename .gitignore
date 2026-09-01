@@ -1,0 +1,24 @@
+## Local research data and generated artifacts
+/ori_data
+/data/
+/results/
+/cache/
+/models/
+/artifacts/
+
+## Python
+/.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+
+## Local editor and notebook state
+/.vscode/
+.ipynb_checkpoints/
+
+## Credentials
+.env
+.env.*
+!.env.example
